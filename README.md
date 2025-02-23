@@ -5,31 +5,27 @@
 </p>
 
 <h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+The goal of this lab is to install and configure an operating system (either Windows or Linux) in this case Windows, on a virtual machine (VM) and document the process. I did some updates in the VM etc.<br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Active Directory Domain Services
+- Azure
 - PowerShell
 
 <h2>Operating Systems Used </h2>
 
-- Windows Server 2022
-- Windows 10 (21H2)
+- Windows 10 Pro
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Sign in to Azure Portal
+- Create a New Virtual Machine
+- Connect to Your Windows VM
+- Set Up and Configure Windows
+- Run a few Powershell commands 
 
 <h2>Deployment and Configuration Steps</h2>
 
